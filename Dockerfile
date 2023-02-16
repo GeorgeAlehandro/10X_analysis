@@ -1,6 +1,6 @@
 FROM centos:7
 
-LABEL maintainer="Jaeyoung Chun (chunj@mskcc.org)"
+LABEL maintainer="Jaeyoung Chun (george-alehandro.SAAD@etu.univ-amu.fr)"
 
 ARG CELLRANGER_VERSION=7.1.0
 ARG VDJ_REFERENCE_VERSION=7.1.0
